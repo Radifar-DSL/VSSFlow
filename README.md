@@ -6,7 +6,7 @@ VSSFlow
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/VSSFlow/branch/master/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/VSSFlow/branch/master)
 
 
-Virtual Screening workflow based on SoS workflow (Script of Scripts)
+Virtual Screening workflow based on [SoS (Script of Scripts) workflow](https://vatlab.github.io/sos-docs/).
 
 ### Copyright
 
